@@ -1,0 +1,28 @@
+footer.main {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid #ebebeb;
+ color: #949494;
+}
+
+.container-account{
+    width: 800px;
+    margin: auto;
+
+}
+.account-update-button{
+    width: 180px;
+    border-radius: 6px;
+    background-color: #66BB6A !important;
+    color: white;
+    border-color:#66BB6A !important ;
+   
+}
+.profile{
+    color: black;
+    box-shadow: 2px 2px 4px #f6f2f2;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+

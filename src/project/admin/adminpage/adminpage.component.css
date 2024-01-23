@@ -1,0 +1,31 @@
+
+    .tile-stats.tile-white {
+        background: #ffffff;
+        border: 1px solid #ebebeb;
+    }
+    .tile-stats {
+        box-shadow: 0 0 20px rgba(0,0,0,0.11);
+        position: relative;
+        display: block;
+       
+        padding: 20px;
+        margin-bottom: 10px;
+        overflow: hidden
+    }
+    .tile-stats .icon i {
+        font-size: 100px;
+        line-height: 0;
+        margin: 0;
+        padding: 0;
+        vertical-align: bottom;
+    }
+    footer.main {
+        margin-top: 15px;
+        padding-top: 15px;
+        border-top: 1px solid #ebebeb;
+     color: #949494;
+    }
+
+    
+
+

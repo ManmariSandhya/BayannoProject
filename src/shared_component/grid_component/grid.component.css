@@ -1,0 +1,21 @@
+.grid-table{
+    width: 100%;
+    margin-right: 0px;
+}
+.edit-icon{
+    color: white;
+    background-color: #42A5F5 !important;
+    font-size: 15px;
+    border: 1px solid ;
+    padding: 3px;
+    border-radius: 6px;
+}
+.delete-icon{
+color: white;
+background-color: #ef5350 !important;
+font-size: 15px;
+    border: 1px solid ;
+    padding: 3px;
+    border-radius: 6px;
+    padding-left: 9px;
+}

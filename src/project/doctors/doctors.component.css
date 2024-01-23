@@ -1,0 +1,112 @@
+.doctor_bg_img{
+    background-image: url('../../assets/images/doctorpageimg.jpg');
+    height: 1500%;
+    color: white;
+}
+.custom-page-head {
+    padding: 5rem 0;
+}
+.parallax-section {
+    position: relative;
+    overflow-x: hidden;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.b-xs-bottom {
+    border-bottom: 1px solid #e0eded;
+}
+.sct-color-1 {
+    background-color: #FFF;
+}
+
+.pb-4 {
+    padding-bottom: 1.5rem!important;
+}
+.pt-4 {
+    padding-top: 1.5rem!important;
+}
+
+
+.col-lg-3 {
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.doctor-sidebar {
+    background: #f3f6f7;
+    padding: 40px 30px;
+}
+.sidebar--style-2 {
+
+    border-radius: 0.25rem;
+   
+}
+.sidebar-object:last-child {
+    margin-bottom: 10px;
+}
+div {
+    display: block;
+}
+.sidebar-object .section-title {
+    margin-bottom: 1rem;
+}
+.section-title {
+    margin-bottom: 1.5rem;
+    position: relative;
+}
+ul.categories {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+ul {
+    display: block;
+    list-style-type: none;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+.doctor-sidebar .categories li {
+    border-bottom: 1px solid #d6e0e4;
+}
+
+ul.categories--style-2 > li {
+    border: 0;
+}
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+.doctor-sidebar .categories li.active a, .doctor-sidebar .categories li a:hover {
+    color: #0087be;
+}
+
+.doctor-sidebar .categories li a {
+    color: #333;
+    font-size: 16px;
+    padding: 13px 0;
+}
+
+.block {
+    margin: 0;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    position: relative;
+    cursor: default;
+    border-radius: 0.25rem 0.25rem 0.25rem;
+    -moz-border-radius: 0.25rem 0.25rem 0.25rem;
+}
+.social-media {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+}
+
+

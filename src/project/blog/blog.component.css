@@ -1,0 +1,65 @@
+.blog_bg_img{
+    background-image: url('../../assets/images/doctorpageimg.jpg');
+    height: 1500%;
+    color: white;
+}
+.masonry-item {
+    margin-bottom: 30px;
+}
+.masonry-item .block {
+    margin-bottom: 0 !important;
+}
+.block--style-3 {
+    border: 1px solid;
+    border-color: rgba(0, 0, 0, 0.05);
+    background: #fff;
+}
+.block {
+    margin: 0;
+    -webkit-transition: all 0.3s linear;
+    transition: all 0.3s linear;
+    position: relative;
+    cursor: default;
+    border-radius: 0.25rem 0.25rem 0.25rem;
+    -moz-border-radius: 0.25rem 0.25rem 0.25rem;
+}
+.block .block-image {
+    position: relative;
+}
+.relative {
+    position: relative;
+}
+.block .block-body {
+    padding: 1.5rem 1.5rem;
+}
+.block--style-3 .heading {
+    margin-bottom: 10px;
+}
+.strong-500 {
+    font-weight: 500 !important;
+}
+.heading-5 {
+    font-size: 1.125rem !important;
+}
+.heading {
+    margin: 0 0 6px;
+    padding: 0;
+    text-transform: none;
+    font-family: "Lato", sans-serif;
+    font-weight: 600;
+    color: #111111;
+    line-height: 1.46;
+}
+.block--style-3 .block-footer {
+    padding: 1.5rem 1.5rem;
+}
+.b-xs-top {
+    border-top: 1px solid #e0eded;
+}
+.align-items-center {
+    
+    align-items: center!important;
+}
+.text-right {
+    text-align: right!important;
+}

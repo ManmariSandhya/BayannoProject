@@ -1,0 +1,21 @@
+
+
+    .contactus_bg_img{
+        background-image: url('../../assets/images/doctorpageimg.jpg');
+        height: 1500%;
+        color: white;
+    }
+  
+
+
+
+.b-xs-bottom {
+    border-bottom: 1px solid #e0eded;
+}
+.text-center {
+    text-align: center!important;
+}
+.container1{
+    width: 800px;
+    margin: auto;
+}

@@ -1,0 +1,16 @@
+{
+  "department": [
+    {
+      "id": 1,
+      "name": "sandhya",
+      "description": "sandhya",
+      "isActive":true
+    },
+    {
+      "id": 2,
+      "name": "sandhya",
+      "description": "sandhya",
+      "isActive":true
+    }
+  ]
+}

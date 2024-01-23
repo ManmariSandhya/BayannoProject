@@ -1,0 +1,9 @@
+@media only screen and (max-width:'80px'){
+    .text-muted{
+        color: white;
+    }
+    .product{
+        height: 60px;
+    }
+}
+

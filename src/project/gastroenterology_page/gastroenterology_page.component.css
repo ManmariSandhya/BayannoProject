@@ -1,0 +1,41 @@
+.department_bg_img{
+    background-image: url('../../assets/images/department_img.jpg');
+    height: 1500%;
+    color: white;
+}
+
+.appointment-btn {
+    margin-top: 50px;
+}
+
+.block {
+    margin: 0;
+    
+    transition: all 0.3s linear;
+    position: relative;
+    cursor: default;
+    border-radius: 0.25rem 0.25rem 0.25rem;
+}
+.parag{
+    padding-top: 50px;
+    color: #55595c;;
+    font-size: 17px;
+    border-bottom: 1px solid #e0eded;
+    padding-bottom: 3rem!important;
+    margin-bottom: 3rem!important;
+}
+   .heading-4{
+    font-family: "Lato", sans-serif;
+  
+    color: #111111;
+    line-height: 1.46;
+   } 
+   .short-delimiter--style-1 {
+    padding: 14px 0;
+    display: block;
+    position: relative;
+}
+
+.mb-4 {
+    margin-bottom: 1.5rem!important;
+}

@@ -1,0 +1,43 @@
+.footer {
+    background: #111;
+    color: rgba(255, 255, 255, 0.7);
+}
+.footer-top {
+    padding: 4rem 0;
+}
+.footer-bottom {
+    padding: 1.5rem 0;
+    background: #131313;
+}
+.text-center {
+    text-align: center!important;
+}
+
+
+.footer .heading {
+    color: rgba(255, 255, 255, 0.7);
+}
+
+.strong-600 {
+    font-weight: 600 !important;
+}
+.text-uppercase {
+    text-transform: uppercase !important;
+}
+.heading-xs {
+    font-size: 0.75rem !important;
+}
+.footer ul.footer-links {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+
+
+.social-media {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    list-style: none;
+}
